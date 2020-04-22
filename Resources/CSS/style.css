@@ -10,7 +10,23 @@ h1 {
     font-size: 50px;
 }
 
-a {
+.link {
     color: aquamarine;
     font-size: 16px;
+}
+
+h2 {
+    color: white;
+    font-weight: 300;
+    font-size: 42px;
+}
+
+p {
+    color: grey;
+    font-size: 21px;
+}
+
+footer {
+    text-align: right;
+    color: grey;
 }
